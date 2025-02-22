@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @erumiii
+- 🖥️ Computer Science Major Student
 - 🌱 I’m currently learning C language
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm playing game a lot
