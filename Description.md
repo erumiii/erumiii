@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erumiii
 - 🖥️ Computer Science Major Student
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning C, Java, and Web Programming
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm playing game a lot
 
