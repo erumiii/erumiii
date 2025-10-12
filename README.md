@@ -1,10 +1,6 @@
-- 👋 Hi, I’m Keenan
-- 🖥️ Computer Science Major Student
-- 🌱 I’m currently learning Java, Bash, and Linux
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I love coffee, no day without coffee
+# Hi, I’m Keenan 👋
 
-<!---
-erumiii/erumiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://preview.redd.it/frieren-e1-e2-gifs-v0-8kywi4t2pzjf1.gif?width=640&crop=smart&auto=webp&s=ebf3a8b9408bf0f18ed792c9b71fa2fa50ead3e1" alt="frieren gif">
+I'm a computer science student who has an interest in cloud computing and devops. 
+Not only that, i also have an interest in artificial intelligence. I am currently learning Java, Bash, and Linux.
+
