@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @erumiii
+- 👋 Hi, I’m Keenan
 - 🖥️ Computer Science Major Student
-- 🌱 I’m currently learning Java,Bash, and Linux
+- 🌱 I’m currently learning Java, Bash, and Linux
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I love coffee, no day without coffee
 
