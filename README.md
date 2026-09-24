@@ -30,7 +30,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Keenan<br><br>I'm a computer science student who has an interest in Software Engineering, Cloud Computing, and DevOps.<br>Not only that, i also have an interest in Artificial Intelligence.</p>
+<p data-importer="text" align="left">I'm Keenan<br><br>A Computer Science student at BINUS University focused on cloud computing, software infrastructure, and system design.<br>Building practical experience in cloud technologies and programming</p>
 
 ###
 
