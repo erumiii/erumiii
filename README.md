@@ -30,7 +30,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm Keenan<br><br>A Computer Science student at BINUS University focused on cloud computing, software infrastructure, and system design.<br>Building practical experience in cloud technologies and programming</p>
+<p data-importer="text" align="left">I'm Keenan<br><br>A Computer Science student at BINUS University focused on cloud computing, software infrastructure, and system design. Building practical experience in cloud technologies, programming, and application deployment, with a strong interest in DevOps and Cloud Engineering. Passionate about understanding how applications are built, deployed, and operated in real-world environments.</p>
 
 ###
 
