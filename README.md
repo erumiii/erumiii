@@ -2,13 +2,7 @@
   <img data-importer="image" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3YyYjY5N3FzZW1qcjhwZDV1a2llb216amtvcDNxd3FobjV0bjd6YyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/rkHMGGEcIDzGfdJRao/giphy.gif"  />
 </div>
 
-###
-
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=50&section=footer&reversal=false&text=Hey%20There!&fontSize=30&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=onedark"  />
-</div>
-
-###
+---
 
 <div data-importer="techs" align="center">
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
